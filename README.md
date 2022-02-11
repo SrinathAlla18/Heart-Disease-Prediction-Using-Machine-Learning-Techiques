@@ -7,8 +7,5 @@ Classification report on test data:
            0       0.93      0.90       0.92        30
            1       0.91      0.94        0.92        31
 
-    accuracy                            0.92        61
-   macro avg       0.92      0.92      0.92        61
-weighted avg       0.92      0.92      0.92        61
-
+  
 
