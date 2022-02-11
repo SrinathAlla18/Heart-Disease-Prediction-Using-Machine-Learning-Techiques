@@ -3,6 +3,8 @@ The main aim of the project is for the prediction of heart disease based on 14 a
 random-forest had produced a classification accuracy of 91.8%. 
 
 Classification report on test data:
+
+
                   precision. recall  f1-score   support
 
            0       0.93      0.90       0.92        30
